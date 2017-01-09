@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 9f5ed1ae0cbad3f4c897147182112715
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Options
+    21300002: Achievements
+    21300004: Play
+    21300006: Sound
+    21300008: Camp
+    21300010: Back
+    21300012: Music
+    21300014: Info
+    21300016: Exit
+    21300018: Options
+    21300020: Achievements
+    21300022: Play
+    21300024: Sound
+    21300026: Tent
+    21300028: Music
+    21300030: Info
+    21300032: Exit
+    21300034: Back
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Options
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1439
+        width: 590
+        height: 592
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Achievements
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1437
+        width: 592
+        height: 590
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Play
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 1425
+        width: 592
+        height: 592
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sound
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 735
+        width: 633
+        height: 596
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tent
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 747
+        width: 1066
+        height: 660
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Music
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 29
+        width: 434
+        height: 526
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Info
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 325
+        width: 406
+        height: 406
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Exit
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 337
+        width: 406
+        height: 406
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Back
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 29
+        width: 614
+        height: 260
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

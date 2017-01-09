@@ -1,0 +1,30 @@
+﻿Options|Options|Asetukset|Inställningar
+Language|Language|Kieli|Språk
+Continue|Continue|Jatka Peliä|Kontinuera
+New Game|New Game|Uusi Peli|Ny Spel
+Back|Back|Takaisin|Bak
+Sure new game|Are you sure you want to erase your saved game?|Haluatko varmasti poistaa aiemman tallennuksen?|Är du säkert du vill removera tidigare spelen?
+Yes|Yes|Kyllä|Ja
+No|No|Ei|Nej
+Sure quit|Are you sure you want to quit the game?|Haluatko varmasti poistua pelistä?|Är du säkert du vill lämnä spelen?
+Credits|Credits|Tekijät|Makare
+Game Design|Game Design|Pelisuunnittelu|Spel Design
+Programming|Programming|Ohjelmointi|Programmering
+Graphics|Graphics|Grafiikka|Grafik
+Audio|Audio|Äänet|Audio
+//Badges
+Badge of Fishing|Badge of Fishing|Kalastusmerkki|Den fiske badgen
+Badge of FishingDesc|This badge makes you better at fishing|Parantaa kalustusta|Den här badgen förbättrar dig i fisking
+Badge of Campfiring|Badge of Campfiring|Nuotiomerkki|Den campbrand badgen
+Badge of CampfiringDesc|This badge makes you better at firing camps|Parantaa nuotiotekoa|Den här badgen förbättrar dig i brandering
+Badge of Foraging|Badge of Foraging|Sienimerkki|Den svampmärken
+Badge of ForagingDesc|This badge makes you forage better mushrooms|Parantaa sieniä|Med den här badgen kan du hitta snyggare svampor
+Badge of Cooking|Badge of Cooking||Kokkausmerkki|Kokmärken
+Badge of CookingDesc|This badge makes you cook better|Kokkaat paremmin|Du kokar bättre
+//Nightly Events
+Night|Event1Eng|Event1Suo|Event1Sve
+NightHunger|EventHunger2Eng|EventHunger2Suo|EventHunger2Sve
+NightWarmth|EventWarmth3Eng|EventWarmth3Suo|EventWarmth3Sve
+NightThirst|EventThirst4Eng|EventThirst4Suo|EventThirst4Sve
+Night|Event5Eng|Event5Suo|Event5Sve
+Night|Event6Eng|Event6Suo|Event6Sve
